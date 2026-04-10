@@ -1,0 +1,7 @@
+1. Customers C001 and C002 are the most valuable based on total purchase value.
+2. Necklace and Ring are the top-performing products.
+3. Online sales are higher than offline sales.
+4. South region has the lowest sales and needs improvement.
+5. Monthly sales peak in May.
+6. Jewelry category shows consistent demand.
+7. Repeat customers contribute significantly to overall revenue.
